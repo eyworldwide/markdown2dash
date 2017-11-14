@@ -1,0 +1,18 @@
+{
+	"name": "markdown2dash",
+	"version": "0.0.1",
+	"description": "Convert markdown files to Dash docset in CLI",
+	"keywords": "markdown dash",
+  "author": "Bob",
+	"license": "MIT",
+	"bin": {
+		"markdown2dash": "src/main.js"
+	},
+  "dependencies": {
+    "command-line-args": "^4.0.7",
+    "docset-generator": "^0.2.2",
+    "rimraf": "^2.6.2",
+    "showdown": "^1.8.2",
+    "showdown-highlight": "^1.0.2"
+  }
+}
