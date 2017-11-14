@@ -1,5 +1,7 @@
 # markdown2dash
 
+[![npm version](https://badge.fury.io/js/markdown2dash.svg)](https://badge.fury.io/js/markdown2dash)
+
 Convert markdown files to Dash docset in CLI.
 
 ## USAGE
