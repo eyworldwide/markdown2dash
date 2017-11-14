@@ -8,7 +8,7 @@
   "author": "Bob",
   "license": "MIT",
   "bin": {
-    "markdown2dash": "src/main.js"
+    "md2dash": "main.js"
   },
   "dependencies": {
     "command-line-args": "^4.0.7",
