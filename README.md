@@ -10,10 +10,10 @@ Convert markdown files to Dash docset in CLI.
 $ md2dash -i {markdownDirectory} -o {docsetDirectory}
 ```
 
-- `markdownDirectory`: default value is **markdown**
-- `docsetDirectory`: default value is **docset**
+- `markdownDirectory`: default value is **./markdown**
+- `docsetDirectory`: default value is **./docset**
 
-the subdirectories of `markdownDirectory` must be named after [Types](https://kapeli.com/docsets#supportedentrytypes) and the directory structure should be organized like this:
+the subdirectories of `markdownDirectory` must name after [Types](https://kapeli.com/docsets#supportedentrytypes) and the directory structure should be organized like this:
 
 	- {markdownDirectory}
 		- Functions

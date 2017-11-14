@@ -13,7 +13,7 @@ const args = [
 	 { name: 'output', alias: 'o', type: String, defaultValue: './docset'},
 ]
 
-const {input, output} = commandLineArgs(args)
+let {input, output} = commandLineArgs(args)
 
 // set showdown to `github flavor` because I love github :)
 showdown.setFlavor('github')
