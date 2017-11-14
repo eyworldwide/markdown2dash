@@ -7,7 +7,7 @@ Convert markdown files to Dash docset in CLI.
 ## USAGE
 
 ```bash
-md2dash -i {markdownDirectory} -o {docsetDirectory}
+$ md2dash -i {markdownDirectory} -o {docsetDirectory}
 ```
 
 - `markdownDirectory`: default value is **markdown**
