@@ -1,6 +1,6 @@
 {
   "name": "markdown2dash",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert markdown files to Dash docset in CLI",
   "keywords": [
     "markdown dash"
