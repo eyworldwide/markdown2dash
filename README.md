@@ -40,7 +40,7 @@ Use `github` flavor, include [github-markdown-css](https://github.com/sindresorh
 
 Thanks to the authors above created beautiful styles.
 
-![screenshot](./screenshoot.png)
+![screenshot](./screenshot.png)
 
 # Demo
 
