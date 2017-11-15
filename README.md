@@ -40,8 +40,8 @@ Use `github` flavor, include [github-markdown-css](https://github.com/sindresorh
 
 Thanks to the authors above created beautiful styles.
 
-![screenshot](./screenshot.png)
-
 # Demo
 
 [GLSL Docset](https://github.com/eyworldwide/glsl-docset)
+
+![screenshot](./screenshot.png)
