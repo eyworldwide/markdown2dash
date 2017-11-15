@@ -4,6 +4,12 @@
 
 Convert markdown files to Dash docset in CLI.
 
+## INSTALL
+
+```bash
+$ npm install -g markdown2dash
+```
+
 ## USAGE
 
 ```bash
@@ -13,7 +19,9 @@ $ md2dash -i {markdownDirectory} -o {docsetDirectory}
 - `markdownDirectory`: default value is **./markdown**
 - `docsetDirectory`: default value is **./docset**
 
-the subdirectories of `markdownDirectory` must name after [Types](https://kapeli.com/docsets#supportedentrytypes) and the directory structure should be organized like this:
+Just type `md2dash` without args If you've put `.md` files in `markdown` directory.
+
+The subdirectories of `markdownDirectory` must name after [Types](https://kapeli.com/docsets#supportedentrytypes) and the directory structure should be organized like this:
 
 	- {markdownDirectory}
 		- Functions
@@ -32,6 +40,8 @@ Use `github` flavor, include [github-markdown-css](https://github.com/sindresorh
 
 Thanks to the authors above created beautiful styles.
 
+![screenshot](./screenshoot.png)
+
 # Demo
 
-
+[GLSL Docset](https://github.com/eyworldwide/glsl-docset)
